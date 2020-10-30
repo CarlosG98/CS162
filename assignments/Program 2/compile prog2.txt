@@ -1,0 +1,1 @@
+g++ prog.cpp game.cpp card.cpp deck.cpp player.cpp hand.cpp -o prog
